@@ -1,0 +1,8 @@
+branch
+
+new: git branch newbranch
+switch: git checkout branchname
+del: git branch -d delbranchname
+rename: git branch -m oldname newname
+new&switch: git branch -b newbranchname
+push: git push -u origin branchname
